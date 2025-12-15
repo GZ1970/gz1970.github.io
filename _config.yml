@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Golang Notes
+description: Go 语言学习与技术笔记
+author: yourname
+
+theme: minima
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
