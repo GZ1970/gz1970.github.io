@@ -1,8 +1,6 @@
 
 <div align=center>
-<img src="https://blog.xss.md/images/go_1.png" width="300" alt="goframe gf logo"/>
-
-
+<img src="https://blog.xss.md/images/go_1.png"/>
 </div>
 
 
