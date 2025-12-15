@@ -1,11 +1,6 @@
 
 title: Golang Notes
 description: Go 语言学习与技术笔记
-author: yourname
+author: GZ
 
-theme: jekyll-theme-cayman
 
-markdown: kramdown
-
-plugins:
-  - jekyll-feed
