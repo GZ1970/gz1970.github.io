@@ -1,8 +1,9 @@
+
 title: Golang Notes
 description: Go 语言学习与技术笔记
 author: yourname
 
-theme: minima
+theme: jekyll-theme-cayman
 
 markdown: kramdown
 
