@@ -1,12 +1,12 @@
 
 <div align=center>
-<img src="https://blog.xss.md/images/go_1.png"/>
+<img style="width:500px" src="https://blog.xss.md/images/go_1.png"/>
 </div>
 
 
-## 导航
+## 文章
 
-- About 关于: [About 关于](https://blog.xss.md/about)
+- 2025-12-17: [About 关于]
 
 ## 兴趣
 
